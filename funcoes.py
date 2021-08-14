@@ -23,5 +23,7 @@ def linha(n_de_linhas=20):
 
 def continuar():
     cont = input('Deseja continuar? [S/N] ').upper()
+    while cont not in 'SN' or cont == '':
+        cont = input('Deseja continuar? [S/N] ').upper()
     if cont == 'N':
         return True
