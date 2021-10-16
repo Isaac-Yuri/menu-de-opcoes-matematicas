@@ -2,7 +2,7 @@ from funcoes import menu, linha, continuar
 from math import sqrt
 
 while True:
-    print('== SUAS OPÇOES ==')
+    print('===> SUAS OPÇOES <===')
     menu()
     linha(23)
     opcao = int(input('Digite sua opção: '))
