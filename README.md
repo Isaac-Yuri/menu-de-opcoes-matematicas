@@ -14,4 +14,4 @@ Baixe o projeto em formato zip indo em: Code > Download zip. Descompacte em algu
 
 ## How to run?
 
-Dowload the project by going to: Code > Download zip. Unzip in some diretory and then run the file [principal.py](https://github.com/Isaac-Yuri/menu-de-opcoes-matematicas/blob/main/principal.py), or clone the repository using: <code> git clone https://github.com/Isaac-Yuri/menu-de-opcoes-matematicas.git</code>. Then just run the file [principal.py](https://github.com/Isaac-Yuri/menu-de-opcoes-matematicas/blob/main/principal.py).
+Dowload the project by going to: Code > Download zip. Unzip in some diretory and then run the file [principal.py](https://github.com/Isaac-Yuri/menu-de-opcoes-matematicas/blob/main/principal.py), or clone the repository using:<code> git clone https://github.com/Isaac-Yuri/menu-de-opcoes-matematicas.git</code>. Then just run the file [principal.py](https://github.com/Isaac-Yuri/menu-de-opcoes-matematicas/blob/main/principal.py).
